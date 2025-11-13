@@ -10,7 +10,7 @@ django-tables2==2.7.0
 
 # Bootstrap Packages
 crispy-bootstrap5==2024.2
-
+https://drive.google.com/file/d/1_hY5clTgVbxQZX5iy-xQR3kGfKrGUxpq/view?usp=sharing
 # Utility Packages
 openpyxl==3.1.5
 phonenumbers==8.13.43
